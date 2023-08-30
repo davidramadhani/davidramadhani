@@ -1,4 +1,4 @@
-problem 5
+#problem 5
 
 Sebagai imbalan karena menyelamatkan putri seorang raja, seorang pemuda diberi kesempatan untuk memperoleh sejumlah koin emas yang tersimpan di salah satu tiga kotak yang ditawarkan oleh raja. Dua kotak diantara tiga kotak merupakan kotak kosong. Agar pemuda tersebut memperoleh koin emas, dia harus memilih kotak yang tepat. Di setiap kotak tertulis ukiran berikut:
 
@@ -7,7 +7,7 @@ Sebagai imbalan karena menyelamatkan putri seorang raja, seorang pemuda diberi k
 
 Permaisuri yang tidak pernah berbohong membantu pemuda tersebut dengan mengatakan bahwa hanya ada satu ukiran yang sesuai dengan isi kotak, dan dua sisanya adalah palsu. Kotak manakah yang harus dipilih oleh pemuda tersebut?
 
-answer
+##answer
 
 Kotak ke 3 adalah kotak yang harus dipilih pemuda tersebut, karena kotak ke 3 hanya bertulisan "koin emas berada di kotak 1" yang padahal di kotak 1 tersebut sudah tertulis ukiran "kotak tidak berisi apa apa", dibanding kotak ke 3 yang tertulis ukiran yang memberi petunjuk ke kotak lain namun tidak ada petunjuk untuk kotak itu sendiri. 
 sebagai perbandingan :
