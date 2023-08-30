@@ -1,4 +1,5 @@
 problem 5
+
 Sebagai imbalan karena menyelamatkan putri seorang raja, seorang pemuda diberi kesempatan untuk memperoleh sejumlah koin emas yang tersimpan di salah satu tiga kotak yang ditawarkan oleh raja. Dua kotak diantara tiga kotak merupakan kotak kosong. Agar pemuda tersebut memperoleh koin emas, dia harus memilih kotak yang tepat. Di setiap kotak tertulis ukiran berikut:
 
     Kotak 1 dan Kotak 2 tertulis: "Kotak tidak berisi apa-apa".
